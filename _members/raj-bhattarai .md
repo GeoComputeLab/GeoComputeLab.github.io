@@ -1,7 +1,6 @@
 ---
 name: Raj Bhattarai 
 image: images/raj-bhattarai.png
-image_position: center top
 description: Master Student | Virginia Tech
 role: Master Student
 group: members
