@@ -6,6 +6,7 @@
   description: Training and research in geospatial AI and advanced computing for urban analysis and smart city innovation.
   repo: greenelab/lab-website-template
   tags:
+    - NSF
 
 - title: "AI-driven Quantification, Detection, and Analysis of Urban Retrofitting"
   subtitle: NSF ACCESS-CIS250619
@@ -15,3 +16,4 @@
   description: AI methods for detecting and quantifying urban change using historical street-view imagery.
   repo: greenelab/lab-website-template
   tags:
+    - NSF ACCESS
