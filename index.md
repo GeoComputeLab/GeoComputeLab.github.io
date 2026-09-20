@@ -3,7 +3,7 @@
 
 # GeoCompute Lab
 
-The GeoCompute lab is based in the Department of Geography at Virginia Tech. At the GeoCompute Lab, we develop scalable geospatial computing and AI methods to transform big spatial data into actionable knowledge for environmental, societal, and infrastructure challenges.
+Homed in the Department of Geography at Virginia Tech. The GeoCompute Lab develops scalable geospatial computing and AI methods to transform big spatial data into actionable knowledge for environmental, societal, and infrastructure challenges.
 
 {% include section.html %}
 
