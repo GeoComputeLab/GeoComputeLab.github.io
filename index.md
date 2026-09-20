@@ -1,9 +1,9 @@
 ---
 ---
 
-# GeoComputeLab's Website
+# GeoCompute Lab
 
-An engaging 1-3 sentence description of your lab.
+The GeoCompute lab is based in the Department of Geography at Virginia Tech. At the GeoCompute Lab, we develop scalable geospatial computing and AI methods to transform big spatial data into actionable knowledge for environmental, societal, and infrastructure challenges.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We advance GIScience through high-performance computing, geospatial AI and data science.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Funded by NSF and Virginia Tech, our group advances geospatial computing to address urban, environmental, and societal challenges.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the researchers and students advancing geospatial discovery at GeoCompute Lab.
 
 {%
   include button.html
