@@ -11,11 +11,6 @@ Our research integrates geospatial data science, AI, and high-performance comput
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
