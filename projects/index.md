@@ -9,6 +9,7 @@ nav:
 
 The GeoCompute Lab is supported by funding from the National Science Foundation (NSF) and computing resources through NSF ACCESS to advance geospatial research, education, and innovation.
 
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
