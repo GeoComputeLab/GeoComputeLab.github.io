@@ -4,7 +4,7 @@ image: images/jack-buehner.png
 description: Master Student | Virginia Tech
 role: Master Student
 group: members
-order: 4
+order: 3
 links:
   email: jack.buehner7@furman.edu
   linkedin: jack-buehner
