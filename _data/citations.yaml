@@ -16,7 +16,7 @@
   fangzheng-lyu: true
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0198971526000608-fx1_lrg.jpg
+  image: images/park2026.jpg
 - id: doi:10.1111/tgis.70394
   title: "VLM4S: A Vision\u2010Language Model Framework for Geographically and Environmentally\
     \ Informed Soundscape Assessment"
@@ -49,8 +49,9 @@
   link: https://doi.org/hcg2f2
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/jin2026.jpg
 - id: doi:10.1080/19475683.2026.2639769
   title: Converging high-performance computing and machine learning for geospatial
     discovery and innovation
@@ -63,8 +64,9 @@
   link: https://doi.org/hcg2f3
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/.lyu2026jpg
 - id: doi:10.1109/LGRS.2026.3693969
   title: 'FG-TreeSeg: Flow-Guided Tree Crown Segmentation Without Instance Annotations'
   authors:
@@ -77,8 +79,9 @@
   link: https://doi.org/hcg2f4
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/chen2026.jpg
 - id: doi:10.3390/su172310437
   title: Analysis of the Multi-Scale Spatial Heterogeneity of Factors Influencing
     the Electric Bike-Sharing Travel Demand in Small and Medium-Sized Cities
@@ -96,8 +99,9 @@
   link: https://doi.org/hcg2f5
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/wang2025.jpg
 - id: doi:10.1111/tgis.70096
   title: A Video Machine Learning Framework for Spatiotemporal Analysis of Complex
     Urban Dynamics
@@ -111,8 +115,9 @@
   link: https://doi.org/hcg2f6
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2025.jpg
 - id: doi:10.5703/1288284317905
   title: 'Evaluating the Evaluation Matrices: Integrating Spatial Assessment in Geospatial
     AI Model Training and Evaluation'
@@ -123,8 +128,9 @@
   link: https://doi.org/hcg2f7
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2025c.jpg
 - id: doi:10.1111/grow.70018
   title: 'Revitalizing Cities: The 5R Framework Approach to Urban Retrofitting and
     Big Data Insights'
@@ -141,8 +147,9 @@
   link: https://doi.org/hcg2f8
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/ma2025.jpg
 - id: doi:10.1007/978-3-031-87421-5_8
   title: Converging GeoAI and CyberGIS for Human Geography
   authors:
@@ -152,8 +159,9 @@
   link: https://doi.org/hcg2f9
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2025b.jpg
 - id: doi:10.1109/JSTARS.2024.3506879
   title: 'Multistream STGAN: A Spatiotemporal Image Fusion Model With Improved Temporal
     Transferability'
@@ -168,8 +176,9 @@
   link: https://doi.org/hcg2gb
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2025d.jpg
 - id: doi:10.1145/3626203.3670615
   title: 'NetPointLib: Library for Large-Scale Spatial Network Point Data Fusion and
     Analysis'
@@ -183,8 +192,9 @@
   link: https://doi.org/hcg2gc
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/kang2024.jpg
 - id: doi:10.1080/13658816.2024.2343063
   title: Mapping dynamic human sentiments of heat exposure with location-based social
     media data
@@ -199,8 +209,9 @@
   link: https://doi.org/hbbtfx
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2024b.jpg
 - id: doi:10.3390/su16125036
   title: 'From Individual Motivation to Geospatial Epidemiology: A Novel Approach
     Using Fuzzy Cognitive Maps and Agent-Based Modeling for Large-Scale Disease Spread'
@@ -216,8 +227,9 @@
   link: https://doi.org/hcg2gd
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/song2024.jpg
 - id: doi:10.5703/1288284317798
   title: A Convergence Framework for Integrating CyberGIS Education and Research on
     I-GUIDE Platform
@@ -234,8 +246,9 @@
   link: https://doi.org/hcg2gf
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2024.jpg
 - id: doi:10.1111/tgis.13106
   title: "A <scp>cyberGIS</scp> approach to exploring neighborhood\u2010level social\
     \ vulnerability for disaster risk management"
@@ -252,8 +265,9 @@
   link: https://doi.org/hcg2gg
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/han2023.jpg
 - id: doi:10.1057/s41599-023-02234-4
   title: 'From the coast to the interior: global economic evolution patterns and mechanisms'
   authors:
@@ -273,8 +287,9 @@
   link: https://doi.org/gttg2j
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/jin2023.jpg
 - id: doi:10.3389/fenvs.2023.1218819
   title: "Examine the environmental inequity impact of urban heat mitigation on redlining\
     \ legacy: case study of Charlotte\u2019s retrofitting, 2001\u20132020"
@@ -288,8 +303,9 @@
   link: https://doi.org/g8sd5m
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/li2023.jpg
 - id: doi:10.1016/j.apgeog.2023.102929
   title: Daily changes in spatial accessibility to ICU beds and their relationship
     with the case-fatality ratio of COVID-19 in the state of Texas, USA
@@ -304,8 +320,9 @@
   link: https://doi.org/gsqs4b
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/park2023.jpg
 - id: doi:10.3390/ijgi11100514
   title: 'Ndist2vec: Node with Landmark and New Distance to Vector Method for Predicting
     Shortest Path Distance along Road Networks'
@@ -322,8 +339,9 @@
   link: https://doi.org/hcg2gh
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/chen2022.jpg
 - id: doi:10.1007/s44212-022-00002-4
   title: An integrated cyberGIS and machine learning framework for fine-scale prediction
     of Urban Heat Island using satellite remote sensing and urban sensor network data
@@ -338,8 +356,9 @@
   link: https://doi.org/hcg2gj
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2022.jpg
 - id: doi:10.1016/j.jag.2022.102897
   title: Spatiotemporal assessments of nutrients and water quality in coastal areas
     using remote sensing and a spatiotemporal deep learning model
@@ -356,8 +375,9 @@
   link: https://doi.org/g5g4zw
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/wu2022.jpg
 - id: doi:10.1145/3491418.3535145
   title: CyberGIS for Scalable Remote Sensing Data Fusion
   authors:
@@ -372,8 +392,9 @@
   link: https://doi.org/hcg2gk
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2022b.jpg
 - id: doi:10.1111/tgis.12905
   title: "A deep trajectory clustering method based on sequence\u2010to\u2010sequence\
     \ autoencoder model"
@@ -392,8 +413,9 @@
   link: https://doi.org/hcg2gm
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/wang2022.jpg
 - id: doi:10.1016/j.cageo.2021.104892
   title: A vector-based method for drainage network analysis based on LiDAR data
   authors:
@@ -408,8 +430,9 @@
   link: https://doi.org/hcg2gn
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2021.jpg
 - id: doi:10.1007/978-981-15-8983-6_36
   title: Integrating CyberGIS and Urban Sensing for Reproducible Streaming Analytics
   authors:
@@ -424,8 +447,9 @@
   link: https://doi.org/hcg2gp
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/wang2021.jpg
 - id: doi:10.1007/978-3-030-72808-3_11
   title: Multi-scale CyberGIS Analytics for Detecting Spatiotemporal Patterns of COVID-19
   authors:
@@ -440,8 +464,9 @@
   link: https://doi.org/hcg2gq
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2021b.jpg
 - id: doi:10.1186/s12942-020-00229-x
   title: 'Rapidly measuring spatial accessibility of COVID-19 healthcare resources:
     a case study of Illinois, USA'
@@ -458,8 +483,9 @@
   link: https://doi.org/gk7pgm
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/kang2020.jpg
 - id: doi:10.1145/3332186.3333257
   title: Bridging Local Cyberinfrastructure and XSEDE with CyberGIS-Jupyter
   authors:
@@ -473,8 +499,9 @@
   link: https://doi.org/hcg2gr
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/anand2019.jpg
 - id: doi:10.1145/3332186.3333052
   title: Reproducible Hydrological Modeling with CyberGIS-Jupyter
   authors:
@@ -492,36 +519,21 @@
   link: https://doi.org/hcg2gs
   orcid: 0000-0001-5180-0380
   fangzheng-lyu: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lyu2019.jpg
+- id: doi:10.5703/1288284317674
+  title: Large-scale Google Street View Images for Urban Change Detection
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - Fangzheng Lyu
+  - Xinlin Ma
+  - Yan Song
+  - Eric Zhu
+  - Shaowen Wang
+  publisher: 'I-GUIDE Forum 2023: Harnessing the Geospatial Data Revolution for Sustainability
+    Solutions'
+  date: '2023-01-01'
+  link: https://doi.org/hcj8kp
+  image: images/lyu2023.jpg
   plugin: sources.py
   file: sources.yaml
