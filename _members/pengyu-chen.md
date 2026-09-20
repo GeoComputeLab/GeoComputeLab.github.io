@@ -1,7 +1,6 @@
 ---
 name: Pengyu Chen
 image: images/pengyu-chen.png
-image_position: center top
 description: PhD Student | Virginia Tech
 role: PhD Student
 group: members
