@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research integrates geospatial data science, AI, and high-performance computing to understand complex urban dynamics and address environmental and societal challenges.
+Our research integrates geospatial data science, AI, and high-performance computing to develop scalable analytical methods, understand complex urban dynamics, and transform spatial data into actionable knowledge for addressing environmental, societal, and infrastructure challenges.
 
 {% include section.html %}
 
