@@ -26,7 +26,7 @@ We advance GIScience through high-performance computing, geospatial AI and data 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Funded by NSF and Virginia Tech, our group advances geospatial computing to addr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Meet the researchers and students advancing geospatial discovery at GeoCompute L
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
