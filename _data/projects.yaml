@@ -1,47 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation
+  subtitle: NSF OAC-2612144
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/nsf.jpg
+  link: https://geocomputelab.github.io/city-ai/ 
+  description: Training and research in geospatial AI and advanced computing for urban analysis and smart city innovation.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: AI-driven Quantification, Detection, and Analysis of Urban Retrofitting
+  subtitle: NSF ACCESS-CIS250619
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/nsfaccess.jpg
+  link: https://platform.i-guide.io/notebooks/49e032af-69de-4d4f-ba23-775a0b3e3f9a
+  description: AI methods for detecting and quantifying urban change using historical street-view imagery.
   repo: greenelab/lab-website-template
   tags:
     - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
