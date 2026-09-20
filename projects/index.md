@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The GeoCompute Lab is supported by funding from the National Science Foundation (NSF) and computing resources through NSF ACCESS to advance geospatial research, education, and innovation.
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,12 +15,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Ongoing Project
+## Ongoing Projects
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-// ## More
+## Past Projects
 
-// {% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
