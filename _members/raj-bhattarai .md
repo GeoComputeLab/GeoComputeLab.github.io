@@ -4,7 +4,7 @@ image: images/raj-bhattarai.png
 description: Master Student | Virginia Tech
 role: Master Student
 group: members
-order: 1
+order: 2
 links:
   email: rajbhattarai@vt.edu
   website: https://rajbhattarai.com.np/
