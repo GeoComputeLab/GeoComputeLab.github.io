@@ -16,7 +16,7 @@
   fangzheng-lyu: true
   plugin: sources.py
   file: sources.yaml
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0198971526000608-fx1_lrg.jpg
 - id: doi:10.1111/tgis.70394
   title: "VLM4S: A Vision\u2010Language Model Framework for Geographically and Environmentally\
     \ Informed Soundscape Assessment"
