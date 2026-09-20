@@ -20,4 +20,91 @@
   image: "images/vlm4s.jpg" 
 
 - id: doi:10.1016/j.compenvurbsys.2026.102458
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0198971526000608-fx1_lrg.jpg
+  image: "images/park2026.jpg" 
+
+- id: doi:10.1109/LGRS.2026.3693969
+  image: "images/chen2026.jpg" 
+
+- id: doi:10.1016/j.apgeog.2026.103992
+  image: "images/jin2026.jpg" 
+
+- id: doi:10.1080/19475683.2026.2639769
+  image: "images/.lyu2026jpg"
+
+- id: doi:10.3390/su172310437
+  image: "images/wang2025.jpg"
+  
+- id: doi:10.1111/tgis.70096
+  image: "images/lyu2025.jpg"
+  
+- id: doi:10.1007/978-3-031-87421-5_8
+  image: "images/lyu2025b.jpg"
+
+- id: doi:10.5703/1288284317905
+  image: "images/lyu2025c.jpg"
+
+- id: doi:10.1111/grow.70018
+  image: "images/ma2025.jpg"
+  
+- id: doi:10.1109/JSTARS.2024.3506879
+  image: "images/lyu2025d.jpg"
+  
+- id: doi:10.5703/1288284317798
+  image: "images/lyu2024.jpg"
+
+- id: doi:10.1145/3626203.3670615
+  image: "images/kang2024.jpg"
+
+- id: doi:10.3390/su16125036
+  image: "images/song2024.jpg"
+  
+- id: doi:10.1080/13658816.2024.2343063
+  image: "images/lyu2024b.jpg"
+  
+- id: doi:10.5703/1288284317674
+  image: "images/lyu2023.jpg"
+
+- id: doi:10.1111/tgis.13106
+  image: "images/han2023.jpg"
+
+- id: doi:10.1057/s41599-023-02234-4
+  image: "images/jin2023.jpg"
+  
+- id: doi:10.3389/fenvs.2023.1218819
+  image: "images/li2023.jpg"
+  
+- id: doi:10.1016/j.apgeog.2023.102929
+  image: "images/park2023.jpg"
+
+- id: doi:10.3390/ijgi11100514
+  image: "images/chen2022.jpg"
+
+- id: doi:10.1007/s44212-022-00002-4
+  image: "images/lyu2022.jpg"
+  
+- id: doi:10.1016/j.jag.2022.102897
+  image: "images/wu2022.jpg"
+  
+- id: doi:10.1145/3491418.353514
+  image: "images/lyu2022b.jpg"
+
+- id: doi:10.1111/tgis.12905
+  image: "images/wang2022.jpg"
+
+- id: doi:10.1016/j.cageo.2021.104892
+  image: "images/lyu2021.jpg"
+  
+- id: doi:10.1007/978-3-030-72808-3_11
+  image: "images/lyu2021b.jpg"
+  
+- id: doi:10.1007/978-981-15-8983-6_36
+  image: "images/wang2021.jpg"
+
+- id: doi:10.1186/s12942-020-00229-x
+  image: "images/kang2020.jpg"
+
+- id: doi:10.1145/3332186.3333052
+  image: "images/lyu2019.jpg"
+  
+- id: doi:10.1145/3332186.3333257
+  image: "images/anand2019.jpg"
