@@ -4,7 +4,7 @@ image: images/royal-silwal.png
 description: Master Student | Virginia Tech
 role: Master Student
 group: members
-order: 3
+order: 2
 links:
   email: royalsilwal@vt.edu
   linkedin: royal-silwal-51a889189
