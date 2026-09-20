@@ -11,6 +11,7 @@ links:
   website: https://carnivalbug.github.io/
   github: carnivalbug
   google-scholar: https://scholar.google.com/citations?user=FNN4IasAAAAJ&hl=en
+  linkedin: fangzheng-lyu-2b6a7712b
   orcid: 0000-0001-5180-0380
 ---
 
