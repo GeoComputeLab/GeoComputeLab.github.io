@@ -66,7 +66,7 @@
   fangzheng-lyu: true
   plugin: sources.py
   file: sources.yaml
-  image: images/.lyu2026jpg
+  image: images/lyu2026.jpg
 - id: doi:10.1109/LGRS.2026.3693969
   title: 'FG-TreeSeg: Flow-Guided Tree Crown Segmentation Without Instance Annotations'
   authors:
