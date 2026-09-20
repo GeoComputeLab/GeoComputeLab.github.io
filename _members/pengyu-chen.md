@@ -4,7 +4,7 @@ image: images/pengyu-chen.png
 description: PhD Student | Virginia Tech
 role: PhD Student
 group: members
-order: 1
+order: 4
 links:
   email: pengyuc@vt.edu
   website: https://pengyu-gis.github.io/about.html
