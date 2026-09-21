@@ -9,6 +9,8 @@ nav:
 
 At the GeoCompute Lab, we develop scalable geospatial computing and AI methods to transform big spatial data into actionable knowledge for environmental, societal, and infrastructure challenges.
 
+<img src="../images/GeoCompute_Lab.png" alt="GeoCompute Lab Logo">
+
 ## What We Do
 The GeoCompute Lab advances geospatial computing to understand a changing world. We connect computing infrastructure, algorithm development, and urban applications to address scientific and societal challenges. Our research focuses on three complementary areas:
 
@@ -27,5 +29,4 @@ The GeoCompute Lab is based in the Department of Geography at Virginia Tech and 
 ## Sponsor
 Our research and training activities are supported by the United States National Science Foundation (NSF) and Virginia Tech.
 
-<img src="../images/GeoCompute_Lab.png" alt="GeoCompute Lab Logo">
 
