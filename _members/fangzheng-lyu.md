@@ -8,7 +8,7 @@ group: leadership
 order: 1
 links:
   email: fangzheng@vt.edu
-  website: https://carnivalbug.github.io/
+  website: https://geography.vt.edu/people/lyu.html
   github: carnivalbug
   google-scholar: https://scholar.google.com/citations?user=FNN4IasAAAAJ&hl=en
   linkedin: fangzheng-lyu-2b6a7712b
