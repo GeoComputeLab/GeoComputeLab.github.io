@@ -27,6 +27,6 @@ We apply geospatial computing to understand how cities change and how urban envi
 The GeoCompute Lab is based in the Department of Geography at Virginia Tech and directed by Dr. Fangzheng Lyu. Our research connects GIScience, geospatial data science, artificial intelligence, and high-performance computing.
 
 ## Sponsor
-Our research and training activities are supported by the United States National Science Foundation (NSF) and Virginia Tech.
+Our research and training activities are supported by the United States National Science Foundation (NSF), NSF ACCESS and Virginia Tech.
 
 
