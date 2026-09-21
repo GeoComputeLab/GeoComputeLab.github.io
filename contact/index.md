@@ -37,9 +37,9 @@ Prospective Ph.D. and master’s students are encouraged to contact Dr. Fangzhen
 ### Undergraduate Students
 Undergraduate students interested in gaining research experience in geospatial computing are welcome to inquire. Potential projects involve geospatial data processing, spatial analysis, software development, and AI applications.
 
-## Postdoctoral Researchers
+### Postdoctoral Researchers
 We welcome inquiries from prospective postdoctoral researchers interested in geospatial computing, spatial AI, and urban informatics. Candidates are encouraged to explore the [Virginia Tech Presidential Postdoctoral Fellowship](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html), a competitive program offering up to two years of support.
 
-## Visiting Scholars & Collabrators
+### Visiting Scholars & Collabrators
 We welcome conversations with researchers and practitioners whose interests connect with our work. Areas of collaboration include geospatial infrastructure, computational methods, and applications addressing urban, environmental, and infrastructure challenges.
 
