@@ -5,17 +5,27 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}About Us
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At the GeoCompute Lab, we develop scalable geospatial computing and AI methods to transform big spatial data into actionable knowledge for environmental, societal, and infrastructure challenges.
 
-{% include section.html %}
+## What We Do
+The GeoCompute Lab advances geospatial computing to understand a changing world. We connect computing infrastructure, algorithm development, and urban applications to address scientific and societal challenges. Our research focuses on three complementary areas:
 
-{% include search-box.html %}
+### 1) Geocomputing Infrastructure
+We investigate the cyberinfrastructure and data infrastructure needed to support scalable geospatial research. Our work examines how computing resources, data formats, storage systems, and software environments support the management and analysis of large, diverse geospatial datasets. We develop open-source tools and reproducible workflows to make advanced geospatial computing more efficient and accessible.
 
-{% include tags.html tags=site.tags %}
+### 2) Efficient Geospatial Algorithm/Model
+We develop and optimize algorithms for computational-intensive geospatial problems. By integrating spatial algorithm design, AI, and advanced cyberinfrastructure, we improve how geospatial data are processed, analyzed, and modeled. Our research examines computational performance and scalability while accounting for spatial relationships, enabling analyses across larger datasets and finer spatial and temporal resolutions.
 
-{% include search-info.html %}
+### 3) Geocomputation for Urban Informatics
+We apply geospatial computing to understand how cities change and how urban environments affect people. Integrating geospatial computing, advanced modeling (e.g., AI, large-scale simulation) and heterogeneous geospatial urban big data (e.g., street view imagery, satellite observations, sensor networks, VGI data), we investigate different urban dynamics topics (e.g., urban changes, heat exposure, spatial accessibility). These applications motivate new computational methods and generate knowledge to inform urban planning, sustainability, and resilience.
 
-{% include list.html data="posts" component="post-excerpt" %}
+## Who We Are
+The GeoCompute Lab is based in the Department of Geography at Virginia Tech and directed by Dr. Fangzheng Lyu. Our research connects GIScience, geospatial data science, artificial intelligence, and high-performance computing.
+
+## Sponsor
+Our research and training activities are supported by the United States National Science Foundation (NSF) and Virginia Tech.
+
+<img src="../images/GeoCompute_Lab.png" alt="GeoCompute Lab Logo">
+
