@@ -32,7 +32,7 @@ We welcome inquiries about our research, opportunities to join the lab, and pote
 We welcome students and collaborators interested in advancing geospatial computing and applying it to scientific and societal challenges. Our research spans geocomputing infrastructure, efficient geospatial algorithms, and urban informatics. Please send email to Dr. Fangzheng Lyu (fangzheng@vt.edu) if interested.
 
 ### Graduate Students
-Prospective Ph.D. and master’s students are encouraged to contact Dr. Fangzheng Lyu to discuss research interests and potential opportunities. We provide fully funded positions for qualified Ph.D. (research assistantship) and master (teaching assistantship) stduents. We welcome inquiries from students with backgrounds in GIS, computer science, data science, urban planning, environmental science, and related fields.
+Prospective Ph.D. and master’s students are encouraged to contact Dr. Fangzheng Lyu to discuss research interests and potential opportunities. We provide fully funded positions for qualified Ph.D. (research assistantship) and master (teaching assistantship) students. We welcome inquiries from students with backgrounds in GIS, computer science, data science, urban planning, environmental science, and related fields.
 
 ### Undergraduate Students
 Undergraduate students interested in gaining research experience in geospatial computing are welcome to inquire. Potential projects involve geospatial data processing, spatial analysis, software development, and AI applications.
