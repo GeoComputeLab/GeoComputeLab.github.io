@@ -10,7 +10,6 @@ proofer: false
 links:
   email: fangzheng@vt.edu
   orcid: 0000-0001-5180-0380
-  google-scholar: https://scholar.google.com/citations?user=FNN4IasAAAAJ&hl=en
   github: GeoComputeLab
 
 ### jekyll settings
