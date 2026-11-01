@@ -14,7 +14,7 @@ At the GeoCompute Lab, we develop scalable geospatial computing and AI methods t
 ## What We Do
 The GeoCompute Lab advances geospatial computing to understand a changing world. We connect computing infrastructure, algorithm development, and urban applications to address scientific and societal challenges. Our research focuses on three complementary areas:
 
-### 1) Geocomputation Urban Geography
+### 1) Computational Urban Geography
 We apply geospatial computing to understand how cities change and how urban environments affect people. Integrating geospatial computing, advanced modeling (e.g., AI, large-scale simulation) and heterogeneous geospatial urban big data (e.g., street view imagery, satellite observations, sensor networks, VGI data), we investigate different urban dynamics topics (e.g., urban changes, heat exposure, spatial accessibility). These applications motivate new computational methods and generate knowledge to inform urban planning, sustainability, and resilience.
 
 ### 2) Efficient Geospatial Algorithm/Model
