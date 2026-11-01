@@ -9,7 +9,7 @@ nav:
 
 The GeoCompute Lab is supported by funding from the National Science Foundation (NSF) and computing resources through NSF ACCESS to advance geospatial research, education, and innovation.
 
-{% include tags.html tags="NSF, NSF ACCESS" %}
+{% include tags.html tags="NSF, NSF ACCESS", "Virginia Center for Health Innovation" %}
 
 {% include search-info.html %}
 
