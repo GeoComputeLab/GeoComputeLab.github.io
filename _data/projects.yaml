@@ -1,5 +1,5 @@
 - title: "CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation"
-  subtitle: NSF OAC-2612144
+  subtitle: NSF OAC-2612144; Lyu, F. (PI), Michels, A. (Co-PI), Song, C. (Co-PI)
   group: featured
   image: images/cityainsf.png
   link: https://geocomputelab.github.io/city-ai
@@ -9,11 +9,31 @@
     - NSF
 
 - title: "AI-driven Quantification, Detection, and Analysis of Urban Retrofitting"
-  subtitle: NSF ACCESS-CIS250619
+  subtitle: NSF ACCESS-CIS250619; Lyu, F. (PI)
   group: featured
   image: images/uraccess.png
   link: https://www.xras.org/public/requests/243599-ACCESS-CIS250619
   description: AI methods for detecting and quantifying urban change using historical street-view imagery.
+  repo: greenelab/lab-website-template
+  tags:
+    - NSF ACCESS
+
+- title: "Identifying Opportunities to Improve Type 2 Diabetes Care in Virginia: An All-Payer Claims Analysis"
+  subtitle: Zhang, M. (PI), Eberth, J. (Co-PI), Lyu, F. (Co-PI)
+  group: featured
+  image: images/VCHI.png
+  link: https://www.vahealthinnovation.org/
+  description: Accessibility of healthcare resources and location allocation.
+  repo: greenelab/lab-website-template
+  tags:
+    - Virginia Center for Health Innovation
+
+- title: "CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation"
+  subtitle: NSF ACCESS-SOC260109; Michels, A. (PI), Lyu, F. (Co-PI)
+  group: featured
+  image: images/cityaiaccess.png
+  link: https://geocomputelab.github.io/city-ai
+  description: Computing resources allocation funded by NSF ACCESS for CITY-AI project.
   repo: greenelab/lab-website-template
   tags:
     - NSF ACCESS
